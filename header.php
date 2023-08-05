@@ -2,11 +2,10 @@
 /**
  * Header template
  *
- * @package firsttheme
+ * @package kntrtest
  */
 ?>
 <!doctype html>
-
 <html <?php language_attributes(); ?> >
 <head>
 	<meta charset="<?php bloginfo('charset') ?>">

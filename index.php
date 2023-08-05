@@ -2,7 +2,7 @@
 /** 
  * Main template file
  * 
- * @package firsttheme
+ * @package kntrtest
  */
 get_header();
 ?>

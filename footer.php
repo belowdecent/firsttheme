@@ -2,7 +2,7 @@
 /**
  * Footer template
  *
- * @package firsttheme
+ * @package kntrtest
  */
 ?>
 	<footer>
